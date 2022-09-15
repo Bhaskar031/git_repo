@@ -6,7 +6,3 @@ public class Hello {
    }
    
 }
-cd /var/lib/jenkins/workspace/
-mkdir Test
-cd /var/lib/jenkins/workspace/Test
-touch Oldfile.sh
