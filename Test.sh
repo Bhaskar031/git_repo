@@ -1,5 +1,5 @@
 echo "Hello World"
-cd /home/bhaskar/Documents/Bhaskar
+cd /var/lib/jenkins/workspace/
 mkdir Test
-cd /home/bhaskar/Documents/Bhaskar/Test
+cd /var/lib/jenkins/workspace/Test
 touch newfile.sh
